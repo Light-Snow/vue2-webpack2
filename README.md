@@ -27,7 +27,7 @@ Target directory exists. Continue? (Y/n) 直接回车默认(然后会下载 vue2
 Project name (vue-test) 直接回车默认 
 Project description (A Vue.js project) 直接回车默认 
 Author 直接回车默认 
-Use ESLint to lint your code? n 
+Use ESLint to lint your code? n （如想程序自动检查代码格式是否正确可选Y）
 pick an eslint preset. 默认Standard 
 setup unit tests with karma + mocha?No(单元测试不需要) 
 setup e2e tests with Nightwatch?No(单元测试不需要)
