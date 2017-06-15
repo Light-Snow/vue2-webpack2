@@ -44,7 +44,7 @@ cd 项目名字 例如 cd myweb
 ```
 npm install
 
-安装 vue 路由模块vue-router和网络请求模块vue-resource –save-dev 是你开发时候依赖的东西，–save 是你发布之后还依赖的东西 
+安装 vue 路由模块vue-router和网络请求模块vue-resource -save-dev 是你开发时候依赖的东西，-save 是你发布之后还依赖的东西 
 npm install vue-router vue-resource --save
 ```
 ### 启动项目 
