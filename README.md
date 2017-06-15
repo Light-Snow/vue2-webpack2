@@ -6,7 +6,8 @@
 去nodejs官网下载即可，地址： http://nodejs.cn/中文网
 
 #安装vue淘宝镜像 
-npm install -g vue –registry=https://registry.npm.taobao.org
+npm install -g vue -registry=https://registry.npm.taobao.org
+
 
 #安装webpack 
 npm install webpack -g
